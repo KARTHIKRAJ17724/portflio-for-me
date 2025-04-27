@@ -17,7 +17,7 @@ Welcome to my portfolio website! This portfolio showcases my skills, projects, c
 
 ### Live Demo
 
-You can view the live demo of the portfolio at [rvrakash17.me](https://rvrakash17.me).
+You can view the live demo of the portfolio at 
 
 ### Getting Started
 
